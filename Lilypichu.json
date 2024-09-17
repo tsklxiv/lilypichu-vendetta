@@ -250,5 +250,6 @@
   "plus":{
     "version":"0",
     "iconpack":"rosiecord-plumpy",
+    "customOverlays": "true",
     "spec": 2
 }

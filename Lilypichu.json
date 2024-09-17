@@ -23,15 +23,15 @@
 
         "TEXT_NORMAL": [
           "#b36f7f",
-          "#a86373"
+          "#b36f7f"
         ],
         "TEXT_MUTED": [
-          "#a86373",
-          "#a86373"
+          "#b36f7f",
+          "#b36f7f"
         ],
         "INTERACTIVE_NORMAL": [
-          "#a86373",
-          "#a86373"
+          "#b36f7f",
+          "#b36f7f"
         ],
         "INTERACTIVE_HOVER": [
           "#be7d8c",

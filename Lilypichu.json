@@ -10,11 +10,11 @@
   "semanticColors": {
       "HEADER_PRIMARY": [
           "#a86373",
-          "#f8e1e5"
+          "#a86373"
       ],
       "HEADER_SECONDARY": [
-          "#d8c28f",
-          "#d8c28f"
+          "#cf92a0",
+          "#cf92a0"
       ],
 
       "ANDROID_RIPPLE": [
@@ -22,28 +22,28 @@
         ],
         
       "TEXT_NORMAL": [
-          "#D6D6D6",
+          "#a86373",
           "#c8c8c8"
       ],
       "TEXT_MUTED": [
-          "#A9966A",
+          "#a86373",
           "#C8B68E"
       ],
       "INTERACTIVE_NORMAL": [
-          "#d8c28f",
-          "#d8c28f"
+          "#a86373",
+          "#a86373"
       ],
       "INTERACTIVE_HOVER": [
-          "#d8c28f",
-          "#d8c28f"
+          "#be7d8c",
+          "#be7d8c"
       ],
       "INTERACTIVE_ACTIVE": [
-          "#CFBA89",
-          "#d8c28f"
+          "#b36f7f",
+          "#be7d8c"
       ],
       "INTERACTIVE_MUTED": [
-          "#544A70",
-          "#c9bbc8"
+          "#cf92a0",
+          "#cf92a0"
       ],
 
       "MENTION_FOREGROUND": [
@@ -74,23 +74,23 @@
         "#21202e"
         ],
       "BACKGROUND_PRIMARY": [
-          "#161519",
-          "#161519"
+          "#ffffff",
+          "#ffffff"
       ],
       "BACKGROUND_SECONDARY": [
-          "#282237",
+          "#ffeeee",
           "#29272E"
       ],
       "BACKGROUND_SECONDARY_ALT": [
-          "#0E0D10",
+          "#fdc7c7",
           "#0E0D10"
       ],
       "BACKGROUND_TERTIARY": [
-          "#121215",
+          "#ffbbbb",
           "#121215"
       ],
       "BACKGROUND_ACCENT": [
-          "#4D4660",
+          "#c5536c",
           "#504863"
       ],
       "BG_BACKDROP": [
@@ -111,16 +111,16 @@
           "#29272E"
       ],
       "BACKGROUND_MOBILE_PRIMARY": [
-          "#161519",
+          "#ffffff",
           "#222228"
       ],
       "BACKGROUND_MOBILE_SECONDARY": [
-          "#161519",
-          "#161519"
+          "#ffeeee",
+          "#ffeeee"
       ],
       "BACKGROUND_NESTED_FLOATING": [
-          "#161519",
-          "#161519"
+          "#ffeeee",
+          "#ffeeee"
       ],
       "CARD_SECONDARY_BG": [
         "#121215"
@@ -133,24 +133,20 @@
           "#1F1F2B"
       ],
       "BACKGROUND_MODIFIER_HOVER": [
-          "#1a1926",
-          "#1a1926"
+          "#381f1f10",
+          "#381f1f10"
       ],
       "BACKGROUND_MODIFIER_ACTIVE": [
-          "#1F1F2B",
-          "#1F1F2B"
+          "#130c0c1f",
+          "#130c0c1f"
       ],
       "BACKGROUND_MODIFIER_SELECTED": [
-          "#2F293D",
-          "#373147"
-      ],
-      "BACKGROUND_MODIFIER_ACCENT": [
-          "#29272E",
-          "#29272E"
+          "#130c0c1f",
+          "#130c0c1f"
       ],
       "SCROLLBAR_THIN_THUMB": [
-          "#26273b",
-          "#26273b"
+          "#ffbbbb",
+          "#ffbbbb"
       ],
       "SCROLLBAR_THIN_TRACK": [
           "transparent",

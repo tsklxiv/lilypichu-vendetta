@@ -266,11 +266,6 @@
 "NotoSans-Semibold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Medium.ttf?raw=1",
 "SourceCodePro-Semibold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Medium.ttf?raw=1"
  },
-
-"background": {
-    "alpha": 5,
-    "url": "https://github.com/VodkaXMartini/images/blob/main/Vision3.jpg?raw=true"
-},
 "plus":{
    "version":"0",
    "iconpack":"rosiecord-plumpy",

@@ -23,11 +23,11 @@
         
       "TEXT_NORMAL": [
           "#a86373",
-          "#c8c8c8"
+          "#a86373"
       ],
       "TEXT_MUTED": [
           "#a86373",
-          "#C8B68E"
+          "#a86373"
       ],
       "INTERACTIVE_NORMAL": [
           "#a86373",
@@ -39,7 +39,7 @@
       ],
       "INTERACTIVE_ACTIVE": [
           "#b36f7f",
-          "#be7d8c"
+          "#b36f7f"
       ],
       "INTERACTIVE_MUTED": [
           "#cf92a0",
@@ -51,19 +51,19 @@
       ],
       "BACKGROUND_SECONDARY": [
           "#ffeeee",
-          "#29272E"
+          "#ffeeee"
       ],
       "BACKGROUND_SECONDARY_ALT": [
           "#fdc7c7",
-          "#0E0D10"
+          "#fdc7c7"
       ],
       "BACKGROUND_TERTIARY": [
           "#ffbbbb",
-          "#121215"
+          "#ffbbbb"
       ],
       "BACKGROUND_ACCENT": [
           "#c5536c",
-          "#504863"
+          "#c5536c"
       ],
       "BG_BACKDROP": [
         "#12121070",
@@ -84,7 +84,7 @@
       ],
       "BACKGROUND_MOBILE_PRIMARY": [
           "#ffffff",
-          "#222228"
+          "#ffffff"
       ],
       "BACKGROUND_MOBILE_SECONDARY": [
           "#ffeeee",
@@ -100,10 +100,6 @@
         "CARD_PRIMARY_BG": [
         "#121215"
         ],
-      "BACKGROUND_MESSAGE_HOVER": [
-          "#1F1F2B",
-          "#1F1F2B"
-      ],
       "BACKGROUND_MODIFIER_HOVER": [
           "#381f1f10",
           "#381f1f10"
@@ -129,12 +125,8 @@
           "#26273b"
       ],
       "SCROLLBAR_AUTO_TRACK": [
-          "1a1926",
-          "1a1926"
-      ],
-      "CHANNEL_TEXT_AREA_PLACEHOLDER": [
-          "#A9966A",
-          "#d8c28f"
+          "#1a1926",
+          "#1a1926"
       ],
       "CHANNELTEXTAREA_BACKGROUND": [
           "#ffeeee",

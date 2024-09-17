@@ -45,34 +45,6 @@
           "#cf92a0",
           "#cf92a0"
       ],
-
-      "MENTION_FOREGROUND": [
-        "#eb6f92"
-        ],
-        "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
-        "#282237"
-        ],
-        "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
-        "#282237"
-        ],
-        "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-        "#282237"
-        ],
-        "REDESIGN_BUTTON_SECONDARY_BORDER": [ 
-        "#a79ab3"
-        ],
-        "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
-        "#e0def4"
-        ],
-        "REDESIGN_CHANNEL_NAME_TEXT": [
-        "#F4EAE5"
-        ],
-        "REDESIGN_CHAT_INPUT_BACKGROUND": [
-        "#26233a"
-        ],
-        "SPOILER_HIDDEN_BACKGROUND": [
-        "#21202e"
-        ],
       "BACKGROUND_PRIMARY": [
           "#ffffff",
           "#ffffff"
@@ -165,24 +137,8 @@
           "#d8c28f"
       ],
       "CHANNELTEXTAREA_BACKGROUND": [
-          "#111111",
-          "#111111"
-      ],
-      "CHANNELS_DEFAULT": [
-          "#5E537C",
-          "#7c6ea7"
-      ],
-      "TEXT_LINK": [
-          "#a297c3",
-          "#a297c3"
-      ],
-      "KEYBOARD": [
-          "#161519",
-          "#161519"
-      ],
-      "CHANNEL_ICON": [
-          "#BFBFBF",
-          "#BFBFBF"
+          "#ffeeee",
+          "#ffeeee"
       ]
   },
   "rawColors": {
